@@ -1,3 +1,0 @@
-function displayChart() {
-    alert("displayChart");
-}
